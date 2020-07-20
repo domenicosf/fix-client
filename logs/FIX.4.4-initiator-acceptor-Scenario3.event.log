@@ -1,0 +1,118 @@
+20200717-12:46:58: Session FIX.4.4:initiator->acceptor:Scenario3 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200717-12:46:58: Created session: FIX.4.4:initiator->acceptor:Scenario3
+20200717-12:46:58: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200717-12:46:58: MINA session created: local=/127.0.0.1:53521, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:46:59: Initiated logon request
+20200717-12:46:59: Received logon
+20200719-19:50:21: Session FIX.4.4:initiator->acceptor:Scenario3 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200719-19:50:21: Created session: FIX.4.4:initiator->acceptor:Scenario3
+20200719-19:50:21: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200719-19:50:21: MINA session created: local=/127.0.0.1:63597, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200719-19:50:22: Initiated logon request
+20200719-19:50:31: Disconnecting: Socket exception (localhost/127.0.0.1:9999): java.io.IOException: Foi forçado o cancelamento de uma conexão existente pelo host remoto
+20200719-19:50:40: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200719-19:52:07: Session FIX.4.4:initiator->acceptor:Scenario3 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200719-19:52:07: Created session: FIX.4.4:initiator->acceptor:Scenario3
+20200719-19:52:07: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200719-19:52:07: MINA session created: local=/127.0.0.1:63824, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200719-19:52:08: Initiated logon request
+20200719-19:52:09: Received logon
+20200719-23:56:19: Session FIX.4.4:initiator->acceptor:Scenario3 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200719-23:56:19: Created session: FIX.4.4:initiator->acceptor:Scenario3
+20200719-23:56:19: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200719-23:56:19: MINA session created: local=/127.0.0.1:52712, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200719-23:56:20: Initiated logon request
+20200719-23:56:25: Received logon
+20200720-00:00:34: Reject sent for message 4: SendingTime accuracy problem:52
+20200720-00:00:34: Session state is not current; resetting FIX.4.4:initiator->acceptor:Scenario3
+20200720-00:00:34: Disconnecting: Session reset
+20200720-00:00:34: quickfix.SessionException Logon state is not valid for message (MsgType=0)
+20200720-00:00:34: Already disconnected: Verifying message failed: quickfix.SessionException: Logon state is not valid for message (MsgType=0)
+20200720-00:01:53: Session FIX.4.4:initiator->acceptor:Scenario3 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-00:01:53: Created session: FIX.4.4:initiator->acceptor:Scenario3
+20200720-00:01:53: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-00:01:53: MINA session created: local=/127.0.0.1:53269, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-00:01:54: Initiated logon request
+20200720-00:01:54: Received logon
+20200720-00:06:26: Session FIX.4.4:initiator->acceptor:Scenario3 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-00:06:26: Created session: FIX.4.4:initiator->acceptor:Scenario3
+20200720-00:06:26: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-00:06:26: MINA session created: local=/127.0.0.1:53495, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-00:06:27: Initiated logon request
+20200720-00:06:28: Received logon
+20200720-00:09:35: Initiated logout request
+20200720-00:09:35: Received logout response
+20200720-00:09:35: Disconnecting: Received logout response
+20200720-00:10:50: Session FIX.4.4:initiator->acceptor:Scenario3 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-00:10:50: Created session: FIX.4.4:initiator->acceptor:Scenario3
+20200720-00:10:50: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-00:10:50: MINA session created: local=/127.0.0.1:53740, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-00:10:51: Initiated logon request
+20200720-00:11:33: Disconnecting: Timed out waiting for logon response
+20200720-00:12:28: Session FIX.4.4:initiator->acceptor:Scenario3 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-00:12:28: Created session: FIX.4.4:initiator->acceptor:Scenario3
+20200720-00:12:28: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-00:12:28: MINA session created: local=/127.0.0.1:53953, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-00:12:29: Initiated logon request
+20200720-00:12:29: Received logon
+20200720-00:23:30: Session FIX.4.4:initiator->acceptor:Scenario3 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-00:23:30: Created session: FIX.4.4:initiator->acceptor:Scenario3
+20200720-00:23:30: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-00:23:30: MINA session created: local=/127.0.0.1:54296, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-00:23:31: Initiated logon request
+20200720-00:26:47: Session FIX.4.4:initiator->acceptor:Scenario3 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-00:26:47: Created session: FIX.4.4:initiator->acceptor:Scenario3
+20200720-00:26:47: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-00:26:47: MINA session created: local=/127.0.0.1:54510, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-00:26:48: Initiated logon request
+20200720-00:26:48: Disconnecting: Encountered END_OF_STREAM
+20200720-01:36:05: Session FIX.4.4:initiator->acceptor:Scenario3 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-01:36:05: Created session: FIX.4.4:initiator->acceptor:Scenario3
+20200720-01:36:05: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-01:36:05: MINA session created: local=/127.0.0.1:55374, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-01:36:06: Initiated logon request
+20200720-01:36:16: Disconnecting: Timed out waiting for logon response
+20200720-01:37:52: Session FIX.4.4:initiator->acceptor:Scenario3 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-01:37:52: Created session: FIX.4.4:initiator->acceptor:Scenario3
+20200720-01:37:52: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-01:37:52: MINA session created: local=/127.0.0.1:55615, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-01:37:53: Initiated logon request
+20200720-01:37:53: Received logon
+20200720-01:55:53: Session FIX.4.4:initiator->acceptor:Scenario3 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-01:55:53: Created session: FIX.4.4:initiator->acceptor:Scenario3
+20200720-01:55:53: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-01:55:53: MINA session created: local=/127.0.0.1:56131, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-01:55:54: Initiated logon request
+20200720-01:55:54: Received logon
+20200720-01:58:57: Session FIX.4.4:initiator->acceptor:Scenario3 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-01:58:57: Created session: FIX.4.4:initiator->acceptor:Scenario3
+20200720-01:58:57: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-01:58:57: MINA session created: local=/127.0.0.1:56371, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-01:58:58: Initiated logon request
+20200720-01:58:58: Disconnecting: Logon custom disconnection
+20200720-01:58:58: Already disconnected: Logon custom disconnection
+20200720-01:58:58: Received logon
+20200720-01:59:51: Session FIX.4.4:initiator->acceptor:Scenario3 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-01:59:51: Created session: FIX.4.4:initiator->acceptor:Scenario3
+20200720-01:59:51: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-01:59:51: MINA session created: local=/127.0.0.1:56599, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-01:59:52: Initiated logon request
+20200720-01:59:52: Disconnecting: Logon custom disconnection
+20200720-01:59:52: Already disconnected: Logon custom disconnection
+20200720-01:59:52: Received logon
+20200720-02:39:36: Session FIX.4.4:initiator->acceptor:Scenario3 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-02:39:36: Created session: FIX.4.4:initiator->acceptor:Scenario3
+20200720-02:39:36: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-02:39:36: MINA session created: local=/127.0.0.1:57693, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-02:39:37: Initiated logon request
+20200720-02:39:37: Disconnecting: Logon custom disconnection
+20200720-02:39:37: Already disconnected: Logon custom disconnection
+20200720-02:39:37: Received logon
+20200720-10:44:42: Session FIX.4.4:initiator->acceptor:Scenario3 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-10:44:42: Created session: FIX.4.4:initiator->acceptor:Scenario3
+20200720-10:44:42: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-10:44:42: MINA session created: local=/127.0.0.1:53573, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-10:44:43: Initiated logon request
+20200720-10:44:43: Disconnecting: Logon custom disconnection
+20200720-10:44:43: Already disconnected: Logon custom disconnection
+20200720-10:44:43: Received logon

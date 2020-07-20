@@ -1,0 +1,448 @@
+20200716-20:20:22: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200716-20:20:22: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200716-20:20:23: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200716-20:20:25: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:20:30: Pending connection not established after 2001 ms.
+20200716-20:20:32: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:20:35: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:20:40: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:20:45: Pending connection not established after 2002 ms.
+20200716-20:20:47: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:20:50: Pending connection not established after 2001 ms.
+20200716-20:20:52: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:20:55: Pending connection not established after 2001 ms.
+20200716-20:20:57: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:21:00: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:21:05: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:21:10: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:21:15: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:21:20: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:21:25: Pending connection not established after 2002 ms.
+20200716-20:21:27: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:21:30: Pending connection not established after 2001 ms.
+20200716-20:21:32: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:21:35: Pending connection not established after 2001 ms.
+20200716-20:21:37: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:21:40: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:21:45: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:21:50: Pending connection not established after 2002 ms.
+20200716-20:21:52: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:21:55: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:22:00: Pending connection not established after 2002 ms.
+20200716-20:22:02: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:22:05: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:22:10: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:22:15: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:22:20: Pending connection not established after 2001 ms.
+20200716-20:22:22: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:22:25: Pending connection not established after 2002 ms.
+20200716-20:22:27: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:22:30: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:22:35: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:22:40: Pending connection not established after 2001 ms.
+20200716-20:22:42: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:22:45: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:22:50: Pending connection not established after 2002 ms.
+20200716-20:22:52: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:22:55: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:23:00: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:23:05: Pending connection not established after 2001 ms.
+20200716-20:23:07: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:23:10: Pending connection not established after 2001 ms.
+20200716-20:23:12: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:23:15: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:23:20: Pending connection not established after 2002 ms.
+20200716-20:23:22: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:23:25: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:23:30: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:23:35: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:23:40: Pending connection not established after 2001 ms.
+20200716-20:23:42: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:23:45: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:23:50: Pending connection not established after 2001 ms.
+20200716-20:23:52: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:23:55: Pending connection not established after 2002 ms.
+20200716-20:23:57: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:24:00: Pending connection not established after 2002 ms.
+20200716-20:24:02: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:24:05: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:24:10: Pending connection not established after 2001 ms.
+20200716-20:24:12: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:24:15: Pending connection not established after 2001 ms.
+20200716-20:24:17: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:24:20: Pending connection not established after 2001 ms.
+20200716-20:24:22: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:24:25: Pending connection not established after 2002 ms.
+20200716-20:24:27: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:24:30: Pending connection not established after 2001 ms.
+20200716-20:24:32: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:24:35: Pending connection not established after 2001 ms.
+20200716-20:24:37: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:24:40: Pending connection not established after 2001 ms.
+20200716-20:24:42: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-20:24:45: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-21:44:09: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200716-21:44:09: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200716-21:44:10: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200716-21:44:14: Pending connection not established after 2001 ms.
+20200716-21:44:15: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-21:44:19: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-21:44:24: Pending connection not established after 2001 ms.
+20200716-21:44:25: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-21:44:29: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-21:44:34: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-21:44:39: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-21:44:44: Pending connection not established after 2001 ms.
+20200716-21:44:45: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-21:44:49: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-21:44:54: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-21:44:59: Pending connection not established after 2001 ms.
+20200716-21:45:00: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-21:45:04: Pending connection not established after 2001 ms.
+20200716-21:45:05: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-21:45:09: Pending connection not established after 2002 ms.
+20200716-21:45:10: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-21:45:14: Pending connection not established after 2002 ms.
+20200716-21:45:15: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-21:45:19: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-21:45:24: Pending connection not established after 2002 ms.
+20200716-21:45:25: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-21:45:29: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-21:45:34: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-21:45:39: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-21:45:44: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-21:45:49: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-21:45:54: Pending connection not established after 2001 ms.
+20200716-21:45:55: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-21:45:59: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-22:14:46: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200716-22:14:46: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200716-22:14:46: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200716-22:14:48: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-22:14:53: Pending connection not established after 2002 ms.
+20200716-22:14:55: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-22:14:58: Pending connection not established after 2002 ms.
+20200716-22:15:00: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-22:15:03: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-22:15:08: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-22:16:58: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200716-22:16:58: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200716-22:16:58: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200716-22:16:58: MINA session created: local=/127.0.0.1:58617, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200716-22:16:59: Initiated logon request
+20200716-22:17:10: Disconnecting: Timed out waiting for logon response
+20200716-22:17:10: MINA session created: local=/127.0.0.1:58640, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200716-22:17:11: Initiated logon request
+20200716-22:17:14: Disconnecting: Socket exception (localhost/127.0.0.1:9999): java.io.IOException: Foi forçado o cancelamento de uma conexão existente pelo host remoto
+20200716-22:17:17: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-22:17:22: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200716-22:19:30: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200716-22:19:30: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200716-22:19:30: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200716-22:19:35: MINA session created: local=/127.0.0.1:58827, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200716-22:19:35: Initiated logon request
+20200716-22:19:37: Received logon
+20200716-22:20:12: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200716-22:20:12: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200716-22:20:12: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200716-22:20:12: MINA session created: local=/127.0.0.1:58962, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200716-22:20:13: Initiated logon request
+20200716-22:20:24: Disconnecting: Timed out waiting for logon response
+20200716-22:20:24: MINA session created: local=/127.0.0.1:59013, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200716-22:20:25: Initiated logon request
+20200716-22:20:36: Disconnecting: Timed out waiting for logon response
+20200716-22:20:36: MINA session created: local=/127.0.0.1:59063, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200716-22:20:37: Initiated logon request
+20200716-22:20:47: Disconnecting: Timed out waiting for logon response
+20200716-22:20:47: MINA session created: local=/127.0.0.1:59107, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200716-22:20:48: Initiated logon request
+20200716-22:21:00: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200716-22:21:00: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200716-22:21:00: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200716-22:21:00: MINA session created: local=/127.0.0.1:59161, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200716-22:21:02: Initiated logon request
+20200716-22:21:12: Disconnecting: Timed out waiting for logon response
+20200716-22:21:13: MINA session created: local=/127.0.0.1:59204, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200716-22:21:13: Initiated logon request
+20200716-22:21:24: Disconnecting: Timed out waiting for logon response
+20200716-22:21:25: MINA session created: local=/127.0.0.1:59246, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200716-22:21:59: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200716-22:21:59: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200716-22:21:59: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200716-22:21:59: MINA session created: local=/127.0.0.1:59346, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200716-22:22:00: Initiated logon request
+20200716-22:22:03: Received logon
+20200716-22:23:13: Sent test request TEST
+20200717-11:58:23: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200717-11:58:23: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200717-11:58:23: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200717-11:58:25: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-11:58:30: Pending connection not established after 2002 ms.
+20200717-11:58:32: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-11:58:35: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-11:58:40: Pending connection not established after 2002 ms.
+20200717-11:58:42: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-11:58:45: Pending connection not established after 2002 ms.
+20200717-11:58:47: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-11:58:50: Pending connection not established after 2002 ms.
+20200717-11:58:52: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-11:58:55: Pending connection not established after 2002 ms.
+20200717-11:58:57: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-11:59:00: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-11:59:05: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-11:59:10: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-11:59:17: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200717-11:59:17: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200717-11:59:17: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200717-11:59:21: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-11:59:26: Pending connection not established after 2002 ms.
+20200717-11:59:27: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-11:59:31: Pending connection not established after 2001 ms.
+20200717-11:59:32: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-11:59:36: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-11:59:41: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-11:59:46: Pending connection not established after 2002 ms.
+20200717-11:59:47: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-11:59:51: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-11:59:57: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-12:00:02: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-12:00:07: Pending connection not established after 2002 ms.
+20200717-12:00:08: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-12:00:12: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-12:00:17: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-12:00:22: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-12:00:27: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-12:00:32: Pending connection not established after 2002 ms.
+20200717-12:00:33: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-12:00:37: Pending connection not established after 2001 ms.
+20200717-12:00:38: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-12:00:42: Pending connection not established after 2001 ms.
+20200717-12:00:43: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-12:00:47: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-12:00:52: Pending connection not established after 2001 ms.
+20200717-12:00:53: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200717-12:33:18: MINA session created: local=/127.0.0.1:53183, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:33:18: Initiated logon request
+20200717-12:33:18: Disconnecting: Encountered END_OF_STREAM
+20200717-12:34:26: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200717-12:34:26: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200717-12:34:26: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200717-12:34:26: MINA session created: local=/127.0.0.1:53264, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:46:58: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200717-12:46:58: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200717-12:46:58: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200717-12:46:58: MINA session created: local=/127.0.0.1:53523, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:46:59: Initiated logon request
+20200717-12:46:59: Disconnecting: Encountered END_OF_STREAM
+20200717-12:47:03: MINA session created: local=/127.0.0.1:53589, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:47:04: Initiated logon request
+20200717-12:47:04: Disconnecting: Encountered END_OF_STREAM
+20200717-12:47:08: MINA session created: local=/127.0.0.1:53655, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:47:09: Initiated logon request
+20200717-12:47:09: Disconnecting: Encountered END_OF_STREAM
+20200717-12:47:13: MINA session created: local=/127.0.0.1:53718, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:47:14: Initiated logon request
+20200717-12:47:14: Disconnecting: Encountered END_OF_STREAM
+20200717-12:47:18: MINA session created: local=/127.0.0.1:53781, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:47:19: Initiated logon request
+20200717-12:47:19: Disconnecting: Encountered END_OF_STREAM
+20200717-12:47:23: MINA session created: local=/127.0.0.1:53844, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:47:24: Initiated logon request
+20200717-12:47:24: Disconnecting: Encountered END_OF_STREAM
+20200717-12:47:28: MINA session created: local=/127.0.0.1:53907, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:47:29: Initiated logon request
+20200717-12:47:29: Disconnecting: Encountered END_OF_STREAM
+20200717-12:47:33: MINA session created: local=/127.0.0.1:53970, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:47:34: Initiated logon request
+20200717-12:47:34: Disconnecting: Encountered END_OF_STREAM
+20200717-12:47:38: MINA session created: local=/127.0.0.1:54033, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:47:39: Initiated logon request
+20200717-12:47:39: Disconnecting: Encountered END_OF_STREAM
+20200717-12:47:43: MINA session created: local=/127.0.0.1:54096, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:47:44: Initiated logon request
+20200717-12:47:44: Disconnecting: Encountered END_OF_STREAM
+20200717-12:47:48: MINA session created: local=/127.0.0.1:54161, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:47:49: Initiated logon request
+20200717-12:47:49: Disconnecting: Encountered END_OF_STREAM
+20200717-12:47:53: MINA session created: local=/127.0.0.1:54249, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:47:54: Initiated logon request
+20200717-12:47:54: Disconnecting: Encountered END_OF_STREAM
+20200717-12:47:59: MINA session created: local=/127.0.0.1:54316, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:47:59: Initiated logon request
+20200717-12:47:59: Disconnecting: Encountered END_OF_STREAM
+20200717-12:48:04: MINA session created: local=/127.0.0.1:54381, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:48:04: Initiated logon request
+20200717-12:48:04: Disconnecting: Encountered END_OF_STREAM
+20200717-12:48:09: MINA session created: local=/127.0.0.1:54445, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:48:09: Initiated logon request
+20200717-12:48:09: Disconnecting: Encountered END_OF_STREAM
+20200717-12:48:14: MINA session created: local=/127.0.0.1:54510, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:48:14: Initiated logon request
+20200717-12:48:14: Disconnecting: Encountered END_OF_STREAM
+20200717-12:48:19: MINA session created: local=/127.0.0.1:54574, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:48:19: Initiated logon request
+20200717-12:48:19: Disconnecting: Encountered END_OF_STREAM
+20200717-12:48:24: MINA session created: local=/127.0.0.1:54638, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:48:24: Initiated logon request
+20200717-12:48:24: Disconnecting: Encountered END_OF_STREAM
+20200717-12:48:29: MINA session created: local=/127.0.0.1:54703, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:48:29: Initiated logon request
+20200717-12:48:29: Disconnecting: Encountered END_OF_STREAM
+20200717-12:48:34: MINA session created: local=/127.0.0.1:54766, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:48:34: Initiated logon request
+20200717-12:48:34: Disconnecting: Encountered END_OF_STREAM
+20200717-12:48:39: MINA session created: local=/127.0.0.1:54829, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:48:39: Initiated logon request
+20200717-12:48:39: Disconnecting: Encountered END_OF_STREAM
+20200717-12:48:44: MINA session created: local=/127.0.0.1:54892, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:48:44: Initiated logon request
+20200717-12:48:44: Disconnecting: Encountered END_OF_STREAM
+20200717-12:48:49: MINA session created: local=/127.0.0.1:54955, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200717-12:48:49: Initiated logon request
+20200717-12:48:49: Disconnecting: Encountered END_OF_STREAM
+20200719-19:50:21: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200719-19:50:21: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200719-19:50:21: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200719-19:50:21: MINA session created: local=/127.0.0.1:63596, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200719-19:50:22: Initiated logon request
+20200719-19:50:31: Disconnecting: Socket exception (localhost/127.0.0.1:9999): java.io.IOException: Foi forçado o cancelamento de uma conexão existente pelo host remoto
+20200719-19:50:38: Pending connection not established after 2001 ms.
+20200719-19:52:07: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200719-19:52:07: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200719-19:52:07: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200719-19:52:07: MINA session created: local=/127.0.0.1:63821, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200719-19:52:08: Initiated logon request
+20200719-19:52:09: Disconnecting: Encountered END_OF_STREAM
+20200719-19:52:12: MINA session created: local=/127.0.0.1:63887, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200719-19:52:13: Initiated logon request
+20200719-19:52:13: Disconnecting: Encountered END_OF_STREAM
+20200719-19:52:18: MINA session created: local=/127.0.0.1:63950, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200719-19:52:18: Initiated logon request
+20200719-19:52:18: Disconnecting: Encountered END_OF_STREAM
+20200719-19:52:23: MINA session created: local=/127.0.0.1:64014, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200719-19:52:23: Initiated logon request
+20200719-19:52:23: Disconnecting: Encountered END_OF_STREAM
+20200719-19:52:28: MINA session created: local=/127.0.0.1:64077, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200719-19:52:28: Initiated logon request
+20200719-19:52:28: Disconnecting: Encountered END_OF_STREAM
+20200719-19:52:33: MINA session created: local=/127.0.0.1:64143, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200719-19:52:33: Initiated logon request
+20200719-19:52:33: Disconnecting: Encountered END_OF_STREAM
+20200719-19:52:38: MINA session created: local=/127.0.0.1:64206, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200719-19:52:38: Initiated logon request
+20200719-19:52:38: Disconnecting: Encountered END_OF_STREAM
+20200719-19:52:43: MINA session created: local=/127.0.0.1:64269, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200719-19:52:43: Initiated logon request
+20200719-19:52:43: Disconnecting: Encountered END_OF_STREAM
+20200719-19:52:48: MINA session created: local=/127.0.0.1:64332, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200719-19:52:48: Initiated logon request
+20200719-19:52:48: Disconnecting: Encountered END_OF_STREAM
+20200719-19:52:53: MINA session created: local=/127.0.0.1:64395, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200719-19:52:53: Initiated logon request
+20200719-19:52:53: Disconnecting: Encountered END_OF_STREAM
+20200719-19:52:58: MINA session created: local=/127.0.0.1:64459, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200719-23:56:19: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200719-23:56:19: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200719-23:56:19: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200719-23:56:19: MINA session created: local=/127.0.0.1:52715, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200719-23:56:20: Initiated logon request
+20200719-23:56:20: Disconnecting: Encountered END_OF_STREAM
+20200719-23:56:25: MINA session created: local=/127.0.0.1:52781, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200719-23:56:25: Initiated logon request
+20200719-23:56:25: Disconnecting: Encountered END_OF_STREAM
+20200719-23:56:30: MINA session created: local=/127.0.0.1:52847, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200719-23:56:30: Initiated logon request
+20200719-23:56:30: Disconnecting: Encountered END_OF_STREAM
+20200719-23:56:49: MINA session created: local=/127.0.0.1:52891, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200719-23:56:49: Initiated logon request
+20200719-23:56:49: Disconnecting: Encountered END_OF_STREAM
+20200719-23:56:54: MINA session created: local=/127.0.0.1:52954, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200719-23:56:54: Initiated logon request
+20200719-23:56:54: Disconnecting: Encountered END_OF_STREAM
+20200719-23:57:00: MINA session created: local=/127.0.0.1:53017, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200719-23:57:00: Initiated logon request
+20200719-23:57:00: Disconnecting: Encountered END_OF_STREAM
+20200720-00:00:36: java.net.ConnectException during connection to localhost/127.0.0.1:9999: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200720-00:01:53: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-00:01:53: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200720-00:01:53: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-00:01:53: MINA session created: local=/127.0.0.1:53270, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-00:01:54: Initiated logon request
+20200720-00:01:54: Disconnecting: Encountered END_OF_STREAM
+20200720-00:06:26: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-00:06:26: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200720-00:06:26: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-00:06:26: MINA session created: local=/127.0.0.1:53496, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-00:06:27: Initiated logon request
+20200720-00:06:27: Disconnecting: Encountered END_OF_STREAM
+20200720-00:10:50: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-00:10:50: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200720-00:10:50: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-00:10:50: MINA session created: local=/127.0.0.1:53738, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-00:10:51: Initiated logon request
+20200720-00:10:51: Disconnecting: Encountered END_OF_STREAM
+20200720-00:12:28: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-00:12:28: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200720-00:12:28: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-00:12:28: MINA session created: local=/127.0.0.1:53952, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-00:12:29: Initiated logon request
+20200720-00:12:29: Disconnecting: Encountered END_OF_STREAM
+20200720-00:23:30: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-00:23:30: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200720-00:23:30: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-00:23:30: MINA session created: local=/127.0.0.1:54297, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-00:23:31: Initiated logon request
+20200720-00:23:31: Disconnecting: Encountered END_OF_STREAM
+20200720-00:26:47: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-00:26:47: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200720-00:26:47: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-00:26:47: MINA session created: local=/127.0.0.1:54512, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-00:26:48: Initiated logon request
+20200720-00:26:48: Disconnecting: Encountered END_OF_STREAM
+20200720-01:36:05: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-01:36:05: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200720-01:36:05: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-01:36:05: MINA session created: local=/127.0.0.1:55377, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-01:36:06: Initiated logon request
+20200720-01:36:06: Disconnecting: Encountered END_OF_STREAM
+20200720-01:37:52: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-01:37:52: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200720-01:37:52: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-01:37:52: MINA session created: local=/127.0.0.1:55613, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-01:37:53: Initiated logon request
+20200720-01:37:53: Disconnecting: Encountered END_OF_STREAM
+20200720-01:55:53: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-01:55:53: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200720-01:55:53: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-01:55:53: MINA session created: local=/127.0.0.1:56134, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-01:55:54: Initiated logon request
+20200720-01:55:54: Disconnecting: Encountered END_OF_STREAM
+20200720-01:55:54: Already disconnected: Logon custom disconnection
+20200720-01:58:57: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-01:58:57: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200720-01:58:57: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-01:58:57: MINA session created: local=/127.0.0.1:56369, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-01:58:58: Initiated logon request
+20200720-01:58:58: Disconnecting: Encountered END_OF_STREAM
+20200720-01:58:58: Already disconnected: Logon custom disconnection
+20200720-01:59:51: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-01:59:51: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200720-01:59:51: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-01:59:51: MINA session created: local=/127.0.0.1:56600, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-01:59:52: Initiated logon request
+20200720-01:59:52: Disconnecting: Encountered END_OF_STREAM
+20200720-01:59:52: Already disconnected: Logon custom disconnection
+20200720-02:39:36: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-02:39:36: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200720-02:39:36: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-02:39:36: MINA session created: local=/127.0.0.1:57691, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-02:39:37: Initiated logon request
+20200720-02:39:37: Disconnecting: Encountered END_OF_STREAM
+20200720-02:39:37: Already disconnected: Logon custom disconnection
+20200720-10:44:42: Session FIX.4.4:initiator->acceptor:Scenario2 schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20200720-10:44:42: Created session: FIX.4.4:initiator->acceptor:Scenario2
+20200720-10:44:42: Configured socket addresses for session: [localhost/127.0.0.1:9999]
+20200720-10:44:42: MINA session created: local=/127.0.0.1:53571, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=localhost/127.0.0.1:9999
+20200720-10:44:43: Initiated logon request
+20200720-10:44:43: Disconnecting: Encountered END_OF_STREAM
+20200720-10:44:43: Already disconnected: Logon custom disconnection
